@@ -31,7 +31,7 @@ local config = {
   -- Add highlight groups in any theme
   highlights = {
     init = { -- this table overrides highlights in all themes
-      Normal = { ctermbg = "none" },
+      Normal = { ctermbg = "none" }, -- To make background transparent
     }
     -- duskfox = { -- a table of overrides/changes to the duskfox theme
     --   Normal = { bg = "#000000" },
