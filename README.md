@@ -30,5 +30,5 @@ git clone https://github.com/shin-sforzando/astronvim_config ~/.config/nvim/lua/
 ### Start Neovim
 
 ```shell
-nvim  --headless -c 'quitall'
+nvim
 ```
